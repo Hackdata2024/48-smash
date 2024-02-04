@@ -35,7 +35,7 @@ Eco Innovators is an advanced application designed to revolutionize sustainable 
 The project directly tackles the challenges of inefficient resource utilization, environmental degradation, and the strain on urban infrastructure. By providing stakeholders with user-friendly tools and insights, Eco Innovators empowers decision-makers and residents to collaboratively work towards creating greener, more resilient cities. The integration of advanced technologies ensures a forward-looking approach to urban planning, aligning with the need for sustainable development.
 
 ### Technological Stack
-This stack has been carefully chosen to ensure a robust and scalable application. Node.js and Express.js provide a fast and efficient backend, while HTML, CSS, JS offer a dynamic and responsive frontend, enabling sophisticated data analysis for optimization strategies. DevOps tools like Docker, Jenkins, and Kubernetes streamline deployment and ensure continuous integration.
+This stack has been carefully chosen to ensure a robust and scalable application. Node.js provide a fast and efficient backend, while HTML, CSS, JS offer a dynamic and responsive frontend, enabling sophisticated data analysis for optimization strategies. DevOps tools like Docker and Jenkins streamline deployment and ensure continuous integration.
 
 Eco Innovators is not just a technological solution; it's a comprehensive approach to creating sustainable and eco-friendly urban environments through informed decision-making and collaboration.
 
